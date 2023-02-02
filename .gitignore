@@ -3,3 +3,7 @@
 image_captioning.ipynb
 .DS_Store
 .ipynb_checkpoints
+/test_dataset
+/train_dataset
+*.h5
+*.png
