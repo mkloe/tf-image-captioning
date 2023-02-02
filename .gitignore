@@ -7,3 +7,4 @@ image_captioning.ipynb
 /train_dataset
 *.h5
 *.png
+*.html
